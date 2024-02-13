@@ -1,0 +1,27 @@
+{
+"posts": [
+{"id":"1", "title":"This is title"},
+{"id":"2", "title":"This is second title"},
+{"id":"3", "title":"This is third title"}
+]
+}
+
+
+  {
+    "firstname": "prajyot",
+    "lastname":"mukane",
+    "phone":"54545",
+    "feedback":"keep practicing"
+  }
+
+  {
+"name":"comando",
+"email":"role@gmail.com",
+"password":"admin",
+"role":"admin"   
+}
+
+{
+"email":"role@gmail.com",
+"password":"admin"    
+}
